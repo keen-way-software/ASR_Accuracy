@@ -178,5 +178,65 @@
         "question_id": "Q17",
         "expected_answer": "Nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na hulipa haraka.",
         "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-09-21/voice/voice_7db59ab6-e13d-4080-bb07-3842d8b51fe4_Q17_20260921_054455.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q8",
+        "expected_answer": "Ndiyo, iliharibu majani na kupunguza mavuno.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-10-37_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q8.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q9",
+        "expected_answer": "Naweza kukubali kupoteza hadi asilimia kumi ya mavuno.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-12-02_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q9.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q10",
+        "expected_answer": "Ikiwa uharibifu unafika karibu asilimia thelathini, nitabadilisha aina.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-12-36_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q10.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q11",
+        "expected_answer": "Iwe na mavuno mengi na iwe inastahimili ukame na wadudu.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-13-20_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q11.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q12",
+        "expected_answer": "Hata tani moja kwa ekari, kama mbegu ni nzuri.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-14-08_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q12.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q13",
+        "expected_answer": "Wakati wa maua na kutengeneza punje.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-14-48_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q13.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q14",
+        "expected_answer": "Ninaweka ya chakula, nauza iliyobaki na kidogo ni ya mifugo.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-15-32_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q14.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q15",
+        "expected_answer": "Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-16-23_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q15.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q16",
+        "expected_answer": "Ninanunua kwa agrovet kwa sababu ninaamini ubora wake.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-17-04_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q16.wav"
+    },
+    {
+        "survey_id": "391b8e25-cd79-427f-8bc8-4bdb4d4c5437",
+        "question_id": "Q17",
+        "expected_answer": "Nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na hulipa haraka.",
+        "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-10-02/voice/2026-10-02_23-17-55_voice_SM-S931U1_5F8C58FB249A_391b8e25-cd79-427f-8bc8-4bdb4d4c5437_Q17.wav"
     }
 ]
