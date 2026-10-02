@@ -1,2 +1,5 @@
 # Local Whisper model files (~175 MB each), downloaded from the Survey2026 repo
 models/
+
+# macOS folder settings
+.DS_Store
