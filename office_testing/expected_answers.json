@@ -38,13 +38,13 @@
     {
         "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
         "question_id": "Q14",
-        "expected_answer": "Ninaweka ya chakula, nauza iliyobaki na kidogo ni ya mifugo.",
+        "expected_answer": "Naweka gunia tano ya chakula, gunia tano nauza, na mbili ni ya mifugo.",
         "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-09-17/voice/voice_46ec4547-5bbe-4b02-9c2a-cbcec7223e2c_Q14_20260917_125429.wav"
     },
     {
         "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
         "question_id": "Q15",
-        "expected_answer": "Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki. Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki.",
+        "expected_answer": "Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki.",
         "wav_file": "https://github.com/ishizuki-tech/SurveyExports/blob/main/2026-09-17/voice/voice_46ec4547-5bbe-4b02-9c2a-cbcec7223e2c_Q15_20260917_125546.wav"
     },
     {
