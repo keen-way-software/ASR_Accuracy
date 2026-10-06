@@ -1,0 +1,1082 @@
+{
+  "description": "Local whisper.cpp transcripts of the 30 recordings in audio/, one set per model in models/.",
+  "runtime": "/opt/homebrew/bin/whisper-cli (whisper.cpp version: 1.9.4), 2 threads",
+  "decoding": "-l sw -bs 1 -bo 1 -mc 0 -nt",
+  "models": {
+    "OpenAI-generic-small-5bit": {
+      "model_file": "models/ggml-small-q5_1.bin",
+      "transcripts": [
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q08.wav",
+          "transcript": "Ndiyo, elia ribu majani na kupunguza mawuno.",
+          "seconds": 0.6
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q09.wav",
+          "transcript": "Na eza kukubali kupoteza hadia silimi ya kumi ya mawono.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q10.wav",
+          "transcript": "Ikiva huwari defu inafika karibu asile miatela tini, intaba deleisha maa aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q11.wav",
+          "transcript": "Iwe na mawuna mengi na iwe inasta emili ukame na wadulu",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q12.wav",
+          "transcript": "Atatani moja kwaikari ikwa mbegunin zori.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q13.wav",
+          "transcript": "Wakati wamaoa na kutengeneza punje.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q14.wav",
+          "transcript": "Naveka goni atano, ya chakula, goni atano, na uza, nambili ni amifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q15.wav",
+          "transcript": "Nwaapa koko nanguruwe maindi marambili hadi tatu kua wiki. [Ruwa]",
+          "seconds": 0.8
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q16.wav",
+          "transcript": "Nina nunua kwa agrovet kwa sababu Nina amini wuborawake.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q17.wav",
+          "transcript": "Nga uza kwa fanya biyashara wa ineo kwa sababu wa kukaribu na uli paraka.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q08.wav",
+          "transcript": "Ndiyo, iliharibu majani na kupunguza mabuno.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q09.wav",
+          "transcript": "Naweza kukubali kupoteza hadiasi ni miakumi ya mabuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q10.wav",
+          "transcript": "Ikiwa huharibifu unafika karibu asilimia telatini mita badili sha aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q11.wav",
+          "transcript": "Iwe na mawunumengi na iwe inastahi mili wukame na wa dudo.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q12.wav",
+          "transcript": "Hatata ni moja kwaikari kama mbeguninzuri.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q13.wav",
+          "transcript": "Wakati wamawa na kutengeneza punje.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q14.wav",
+          "transcript": "Ni naweka e atyakula na uza ili obaki na kidogo ni yami fugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q15.wav",
+          "transcript": "Nawa paku kuna gurue mahindi marambili hadi tatu kwawegi.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q16.wav",
+          "transcript": "Nina nunuwa kwa agrovet kwa sapabu Nina miniubo rawake.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q17.wav",
+          "transcript": "Nauza kwa wafanyi biyashara, waine o kosa babu wa kukaribu na huli paharaka.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q08.wav",
+          "transcript": "Ndiyo, ilia ribu majani na kupunguza mawono.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q09.wav",
+          "transcript": "Naweza kukubali kupoteza adi asilmiya kumi ya mawuno.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q10.wav",
+          "transcript": "Ikwa ua ribifu unafika karibu asilimi atelatini mitaba dilisha aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q11.wav",
+          "transcript": "Iwe na mawuno mengi na iwe inasta imili ukame na wadudu",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q12.wav",
+          "transcript": "Hata tanimoja kwaikari kama mbegu nenzuri.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q13.wav",
+          "transcript": "Wakatiwa mawa, nakutengeneza punje.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q14.wav",
+          "transcript": "Ninaweka ya chakula na uza iliobaki nakidogo niya mifugo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q15.wav",
+          "transcript": "Nawa pa kuku na nguruwe maindi marambili adi tatu kwa wiki",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q16.wav",
+          "transcript": "Nina nunuwa kwa agrovet kwa sababu nina amini borawake.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q17.wav",
+          "transcript": "Nauza kwa fanya bieshara wa yene wa kwa sababu wa koka ribuna ulipa araka.",
+          "seconds": 0.5
+        }
+      ]
+    },
+    "lingua-connect": {
+      "model_file": "models/ggml-small-sw-q5_0.bin",
+      "transcripts": [
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q08.wav",
+          "transcript": "ndio iliyaribu majani na kupunguza mawuna",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q09.wav",
+          "transcript": "naweza kukubali kupoteza hadi ya silimi ya kumi ya mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q10.wav",
+          "transcript": "ikiwa uwaridifu inafika karibu asili mya telatini mtabadilisha maina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastaye mili ukame na wadudu",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q12.wav",
+          "transcript": "hatata ni moja kwa ikari ikiwa mbegu ni nzori",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza punja",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q14.wav",
+          "transcript": "naweka guni ya tano ya chakula guni ya tano na uza na mbili ni ya mifugo",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q15.wav",
+          "transcript": "na wapa kuku na nkurue maindi marambili hadi tatu kwa wikiz",
+          "seconds": 0.7
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q16.wav",
+          "transcript": "lina unua kwa agro vetu kwa sababu ninaamini ubohawake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q17.wav",
+          "transcript": "nauza kwa wafanya biashara wa inayo kwa sababu wa kukaribu na ulimaaraka",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q08.wav",
+          "transcript": "ndio ili haribu majani na kupongoza mawuna",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q09.wav",
+          "transcript": "naweza kukubali kupoteza hadi ya sinimiakumi ya mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q10.wav",
+          "transcript": "ikiwa uharibu fulaniika karibu asilimia 30 mtabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastahimili ukame na wadudu",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q12.wav",
+          "transcript": "hatata ni moja kwaikari kama mbegu ninzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza ponge",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q14.wav",
+          "transcript": "naweka ya chakula na uzaili ya baki na kidogo ni ya mifugo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q15.wav",
+          "transcript": "na wapa kuguna nkurue mahindi mara mbili hadi tatu kwa wiki",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q16.wav",
+          "transcript": "ninadu wa kwa agarovetra kwa sapabu nina miini ubora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q17.wav",
+          "transcript": "nauza kwa wafanyibiashara wenyeo kwa sapabu wa kwa karibu na hulipa haraka",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q08.wav",
+          "transcript": "ndio ili ya ribu majani na kupunguza maguna",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q09.wav",
+          "transcript": "naweza kukubali kupoteza adi asilimia kumi ya mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q10.wav",
+          "transcript": "ikiwa uaribifu unafika karibu asilimia 30 mtabadilisha aina",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastaye mili ukame na wadudu",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q12.wav",
+          "transcript": "hata tanimoja kwa ekari kama mbegu nenzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza ponge",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q14.wav",
+          "transcript": "ninaweka ya chakula na uzailio baki na kidogo nia mifugo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q15.wav",
+          "transcript": "nawapa kuku na nguroa maindi marambiliadi tatu kwa wiki",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q16.wav",
+          "transcript": "ninatulua kwa agrivate kwa sababu ninaamini borawake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q17.wav",
+          "transcript": "nauza kwa wafanya biashara waineeo kwa sababu wa kukaribu na ulipa araka",
+          "seconds": 0.5
+        }
+      ]
+    },
+    "cdli-cv20": {
+      "model_file": "models/ggml-small-sw-cv20-q5_0.bin",
+      "transcripts": [
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q08.wav",
+          "transcript": "ndio iliaribu majani na kupunguza mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q09.wav",
+          "transcript": "Ndayeweza kukubali kupoteza hadi ya asilimia kumi ya mavuno.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q10.wav",
+          "transcript": "Ikiwa huo alijifu inafika karibu asilimia thelathini mtabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastahimili ukame na wadulu",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q12.wav",
+          "transcript": "Hata tani moja kwa ikari ikiwa mbegu ni nzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza punge.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q14.wav",
+          "transcript": "Na weka goniatano ya chakula goniatano na uza na mbili ni ya mifugo",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q15.wav",
+          "transcript": "Na wapa kuku na nguruwe maindi mara mbili hadi tatu kwa wikiMhuhu",
+          "seconds": 0.7
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q16.wav",
+          "transcript": "Linanunua kwa agrivert kwa sababu ni naamini ubora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q17.wav",
+          "transcript": "nauza kwa wafanyabiashara wa eneo kwa sababu wa kokaribu na ulipa haraka",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q08.wav",
+          "transcript": "ndio iliharibu majani na kupunguza mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q09.wav",
+          "transcript": "Naweza kukubali kupoteza hadi asilimia kumi ya mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q10.wav",
+          "transcript": "Ikiwa uharibifu unafika karibu asilimia thelathini mitabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q11.wav",
+          "transcript": "Iwe na mavuno mengi na iwe inastahimili ukame na wadudu.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q12.wav",
+          "transcript": "Hata tani moja kwa ikari kama mbegu ni nzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza puje.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q14.wav",
+          "transcript": "Ninaweka ya chakula na uza iliyobaki na kidogo ni ya mifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q15.wav",
+          "transcript": "Na wapakuku na nguruwe mahindi mara mbili hadi tatu kwa wiki",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q16.wav",
+          "transcript": "Ninununua kwa agri wet kwa sampabu na minibora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q17.wav",
+          "transcript": "Nauza kwa wafanyibi ya shara wa eneo kwa sababu wa kukaribu na hulipa haraka.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q08.wav",
+          "transcript": "Ndio iliaribu majani na kupunguza mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q09.wav",
+          "transcript": "Naweza kukubali kupotezaadi asilimia kumi ya mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q10.wav",
+          "transcript": "Ikiwa uaribifu unafika karibu asilimia thelathini ni tabadilisha aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q11.wav",
+          "transcript": "Iwe na mavuno mengi na iwe inastahimili ukame na wadudu.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q12.wav",
+          "transcript": "Hata tani moja kwa ikari kama mbegu ni nzuri.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza punja.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q14.wav",
+          "transcript": "Ninaweka ya chakula na uza iliyobaki na kidogo ni ya mifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q15.wav",
+          "transcript": "Na wapa kuku na nguruwe maindi mara mbili hadi tatu kwa wike",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q16.wav",
+          "transcript": "Ninanunua kwa agrivert kwa sababu na naamini bora wake.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q17.wav",
+          "transcript": "Na uza kwa wafanyabiashara wanaoneo kwa sababu wako karibu na ulipa haraka",
+          "seconds": 0.5
+        }
+      ]
+    },
+    "cdli-kenyan-nonstandard": {
+      "model_file": "models/ggml-small-sw-kenyan-nonstandard-q5_0.bin",
+      "transcripts": [
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q08.wav",
+          "transcript": "Ndio iliharibu majani na kupunguza mavuno.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q09.wav",
+          "transcript": "Naweza kukubali kupoteza hadi ya asilimia kumi ya mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q10.wav",
+          "transcript": "ikiwa waridhifu inafika karibu asilimia thelathini mtabadilisha ma aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q11.wav",
+          "transcript": "Hiiwe na mavuno mengi na hiiwe ina style mbili, ukame na wadudu.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q12.wav",
+          "transcript": "Hata taani moja kwa kikali ikiwa mbegu ni nzuri.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza bunge.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q14.wav",
+          "transcript": "Naweka guni ya tano ya chakula, guni ya tano, nauza na mbili ni ya mifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q15.wav",
+          "transcript": "Ni hapa kuku na nguruwe mahindi mara mbili hadi katu kwa wiki.Mama",
+          "seconds": 1.6
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q16.wav",
+          "transcript": "Ninanunua kwa agro wet kwa sababu ninaamini ubora wake.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q17.wav",
+          "transcript": "Nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na ulipa haraka.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q08.wav",
+          "transcript": "Ndio iliharibu majani na kupuguza mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q09.wav",
+          "transcript": "Naweza kukubali kupoteza hadi ya sinimia kumi ya mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q10.wav",
+          "transcript": "Ikiwa uharibu hifu unafika karibu asilimia thelathini mitabadilisha aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q11.wav",
+          "transcript": "Hiiwe na mavuno mengi na hivyo ina stahimili ukame na wadudu.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q12.wav",
+          "transcript": "Hata ni moja kwa ikari kama mbegu ni nzuri.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza punge.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q14.wav",
+          "transcript": "Ninaweka ya chakula nauza iliyobaki na kidogo ni ya mifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q15.wav",
+          "transcript": "Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q16.wav",
+          "transcript": "Ninanunua kwa agrivet kwa sababu linaamini bora wake.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q17.wav",
+          "transcript": "Nauza kwa wafanyibiashara wa eneo kwa sababu wa kukaribu na hulipa haraka.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q08.wav",
+          "transcript": "Ndio iliaribu majani na kupunguza mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q09.wav",
+          "transcript": "Niweza kukubali kupoteza hadi asilimia kumi ya mavuno.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q10.wav",
+          "transcript": "Ikiwa uaribifu unafika karibu asilimia thelathini nitabadilisha aina.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q11.wav",
+          "transcript": "Hii na mavuno mengi na hiwe inasitai mbili, ukame na wadudu.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q12.wav",
+          "transcript": "Hata ni moja kwa ikari kama mbegu ni nzuri.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q13.wav",
+          "transcript": "Wakati wa maua na kutengeneza punge.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q14.wav",
+          "transcript": "Ninaweka ya chakula nauza iliyobaki na kidogo ni ya mifugo.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q15.wav",
+          "transcript": "Nawapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki.",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q16.wav",
+          "transcript": "Ninanunua kwa agriuate kwa sababu naamini bora wake.",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q17.wav",
+          "transcript": "Nauza kwa wafanyabiashara wale eneo kwa sababu wako karibu na ulipa haraka.",
+          "seconds": 0.5
+        }
+      ]
+    },
+    "dmusingu-cv14": {
+      "model_file": "models/ggml-small-sw-cv14-q5_0.bin",
+      "transcripts": [
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q08.wav",
+          "transcript": "ndio iliharibu majani na kupunguza mavuno",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q09.wav",
+          "transcript": "naweza kukubali kupoteza hadi ya asilimia kumi ya mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q10.wav",
+          "transcript": "ikiwa uharibifu inafika karibu asilimia thelathini intabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastahimili ukame na wadudu",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q12.wav",
+          "transcript": "hata tani moja kwa ikari ikiwa mbegu ni nzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza punja",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q14.wav",
+          "transcript": "naweka gunia tano ya chakula gunia tano nauza na mbili ni ya mifugo",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q15.wav",
+          "transcript": "na wapa coco na nguruwe mahindi mara mbili hadi tatu kwa wikikina yule kokob lyatilo kmore ninanye maaan yako yana",
+          "seconds": 3.7
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q16.wav",
+          "transcript": "linaunua kwa agrovert kwa sababu ninaamini ubora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "46ec4547-5bbe-4b02-9c2a-cbcec7223e2c",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-17_46ec4547_Victor_Q17.wav",
+          "transcript": "nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na ulipa haraka",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q08.wav",
+          "transcript": "ndio iliharibu majani na kupunguza mavuno",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q09.wav",
+          "transcript": "naweza kukubali kupoteza hadi asilimia kumi ya mavuno",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q10.wav",
+          "transcript": "ikiwa uharibifu unafika karibu asilimia thelathini mitabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastahimili ukame na wadudu",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q12.wav",
+          "transcript": "hata tani moja kwa ikari kama mbegu ni nzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza punje",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q14.wav",
+          "transcript": "ninaweka ya chakula nauza iliyobaki na kidogo ni ya mifugo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q15.wav",
+          "transcript": "na wapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q16.wav",
+          "transcript": "ninunua kwa agrovat kwa sababu ninaamini ubora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "4f629181-d1dc-46cf-8e71-d819a4b33662",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_4f629181_Susan_Q17.wav",
+          "transcript": "nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na hulipa haraka",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q8",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q08.wav",
+          "transcript": "ndiyo iliyaribu majani na kupunguza mavuno",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q9",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q09.wav",
+          "transcript": "naweza kukubali kupoteza hadi asilimia kumi ya mavuno",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q10",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q10.wav",
+          "transcript": "ikiwa uharibifu unafika karibu asilimia thelathini nitabadilisha aina",
+          "seconds": 0.5
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q11",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q11.wav",
+          "transcript": "iwe na mavuno mengi na iwe inastahimili ukame na wadodo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q12",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q12.wav",
+          "transcript": "hata tani moja kwa ekari kama mbegu ni nzuri",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q13",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q13.wav",
+          "transcript": "wakati wa maua na kutengeneza punja",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q14",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q14.wav",
+          "transcript": "ninaweka ya chakula na usa iliyobaki na kidogo ya mifugo",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q15",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q15.wav",
+          "transcript": "na wapa kuku na nguruwe mahindi mara mbili hadi tatu kwa wiki",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q16",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q16.wav",
+          "transcript": "ninanunua kwa agrovate kwa sababu ninaamini ubora wake",
+          "seconds": 0.4
+        },
+        {
+          "survey_id": "7db59ab6-e13d-4080-bb07-3842d8b51fe4",
+          "question_id": "Q17",
+          "wav_file": "audio/2026-09-21_7db59ab6_Ednah_Q17.wav",
+          "transcript": "nauza kwa wafanyabiashara wa eneo kwa sababu wako karibu na ulipa haraka",
+          "seconds": 0.5
+        }
+      ]
+    }
+  }
+}
